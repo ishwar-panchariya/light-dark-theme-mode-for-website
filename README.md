@@ -1,4 +1,4 @@
-Light and Dark Mode Theme for Website and Mobile Apps
+#Light and Dark Mode Theme for Website and Mobile Apps
 
 This template is developed using HTML, CSS, Bootstrap, Javascript.
 
